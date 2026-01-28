@@ -1,1 +1,2 @@
-# spike-train-and-psth
+#Spike Train and PSTH
+This Jupyter notebook examines neural activity over the course of several trials using spike trains. While firing rates provide a summary of spiking activity, raster plots are used to display precise spike timing and variability that change from one trial to another. Neural responses can be reliably compared across trials in relation to stimulus onset by aligning spikes to a common event and calculating a peristimulus time histogram (PSTH).
